@@ -7,6 +7,7 @@
     "codegen": "graphql-codegen --config ./codegen.ts"
   },
   "dependencies": {
+    "@apollo/client": "^3.8.9",
     "@graphql-codegen/add": "^5.0.1",
     "@graphql-codegen/cli": "^5.0.0",
     "@graphql-codegen/plugin-helpers": "^5.0.2",
